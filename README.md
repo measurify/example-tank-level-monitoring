@@ -1,4 +1,4 @@
-# Design and development of an embedded system for remote monitoring the water level of a tank
+# Design and development of an embedded system for remote monitoring the level of a tank
 
 ## Overview
 
